@@ -1,1 +1,5 @@
 a third file changing it as well
+
+
+
+Some text on the third text file
